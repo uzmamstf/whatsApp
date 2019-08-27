@@ -1,0 +1,31 @@
+#whtsapContainer {
+    border: solid black 1px;
+    height: auto;
+    width: 50%;
+}
+
+h1 {
+    color: white;
+}
+
+#head {
+    display: inline-flex;
+    display: flex;
+    background-color: rgb(37, 211, 102);
+    justify-content: space-between;
+}
+
+#headIcons {
+    justify-content: space-evenly;
+    padding: 2em;
+    color: white;
+}
+
+.fa-ellipsis-v {
+    margin-left: 15px;
+}
+
+#whtsapTabs ul li {
+    /* display: inline-flex; */
+    text-decoration: none;
+}
